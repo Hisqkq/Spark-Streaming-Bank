@@ -26,10 +26,11 @@ This project is a comprehensive Scala application designed to simulate a Data En
 ## Technologies Used
 
 - **Scala**: Programming language used for application development.
-- **Apache Spark 3.5.2: Framework for large-scale data processing and streaming.
+- **Apache Spark 3.5.2:** Framework for large-scale data processing and streaming.
 - **sbt**: Build tool for Scala projects.
 - **Play JSON**: Library for JSON handling in Scala.
 
+  ## Files
 
 - **build.sbt**: Project configuration and dependency management.
 - **Main.scala**: Entry point of the application.
