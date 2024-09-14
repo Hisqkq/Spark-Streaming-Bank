@@ -119,7 +119,7 @@ spark-shell --version
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/Hisqkq/SparkStreamingBank.git
+git clone https://github.com/Hisqkq/Spark-Streaming-Bank.git
 cd SparkStreamingBank
 ```
 
